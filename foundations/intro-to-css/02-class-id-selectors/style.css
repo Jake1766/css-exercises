@@ -1,0 +1,19 @@
+.odd_number{
+    background-color: pink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+#num_2{
+    color: blue;
+    font-size: 36px;
+}
+
+#num_3{
+    font-size: 24px;
+}
+
+#num_4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
